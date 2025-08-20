@@ -9,7 +9,7 @@
 
 - 💬 Спросите меня о **C++, C#, Python и Node.js**
 
-- 📫 Как связаться: **githubmaminc.com@example.com**
+- 📫 Как связаться: **githubmaminc.com@gmail.com**
 
 <h3 align="left">Мой стек:</h3>
 <p align="left">
