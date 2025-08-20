@@ -29,6 +29,6 @@
 
 <h3 align="left">Моя статистика:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=dark" alt="your-username" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&theme=dark" alt="your-username" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&show_icons=true&locale=en&layout=compact&theme=dark" alt="VirusLamber" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VirusLamber&show_icons=true&locale=en&theme=dark" alt="VirusLamber" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VirusLamber&theme=dark" alt="VirusLamber" /></p>
