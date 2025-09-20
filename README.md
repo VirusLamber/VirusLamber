@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&show_icons=true&locale=en&layout=compact&theme=dark" alt="VirusLamber" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VirusLamber&show_icons=true&locale=en&theme=dark" alt="VirusLamber" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VirusLamber&theme=dark" alt="VirusLamber" /></p>
+
+<img  align="center" src="https://i.pinimg.com/originals/4b/40/96/4b40967dec17146357c4a8525651fe4e.jpg"></img>
