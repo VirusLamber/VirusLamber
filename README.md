@@ -1,7 +1,7 @@
 <h1 align="center">Привет, Я VirusLamber</h1>
 <h3 align="center">разработчик</h3>
 
-- 👨‍💻 Все мои проекты доступны на <a href="https://github.com/VirusLamber" target="_blank" rel="noreferrer"> <img src="https://avatars.mds.yandex.net/get-entity_search/7689129/653727942/S114x114FitScale_2x" alt="github" width="40" height="40"/> </a>
+- 👨‍💻 Все мои проекты доступны на <a href="https://github.com/VirusLamber" target="_blank" rel="noreferrer">Github</a>
 
 <h3 align="left">Мой стек:</h3>
 <p align="left">
