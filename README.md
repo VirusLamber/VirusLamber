@@ -21,8 +21,11 @@
 
 <h3 align="left">Моя статистика:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&show_icons=true&locale=en&layout=compact&theme=dark" alt="VirusLamber" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VirusLamber&show_icons=true&locale=en&theme=dark" alt="VirusLamber" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VirusLamber&theme=dark" alt="VirusLamber" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VirusLamber" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <img  align="center" src="https://i.pinimg.com/originals/4b/40/96/4b40967dec17146357c4a8525651fe4e.jpg"></img>
