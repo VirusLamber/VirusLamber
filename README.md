@@ -1,5 +1,4 @@
 <h1 align="center">Привет, Я VirusLamber</h1>
-<h3 align="center">разработчик</h3>
 
 - 👨‍💻 Все мои проекты доступны на <a href="https://github.com/VirusLamber" target="_blank" rel="noreferrer">Github</a>
 
@@ -27,5 +26,11 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VirusLamber&repo=Messenger" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VirusLamber&repo=FluxLang" />
+</a>
+<hr></hr>
 <img  align="center" src="https://i.pinimg.com/originals/4b/40/96/4b40967dec17146357c4a8525651fe4e.jpg"></img>
