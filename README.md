@@ -20,6 +20,12 @@
 
 <h3 align="left">Моя статистика:</h3>
 
+<a href="https://github.com/VirusLamber">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VirusLamber" />
+</a>
+<a href="https://github.com/VirusLamber">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&layout=compact&langs_count=8&card_width=320" />
+</a>
 <a href="https://github.com/VirusLamber/Messenger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VirusLamber&repo=Messenger" />
 </a>
