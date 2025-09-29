@@ -20,17 +20,6 @@
 
 <h3 align="left">Моя статистика:</h3>
 
-<a href="https://github.com/VirusLamber">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VirusLamber" />
-</a>
-<a href="https://github.com/VirusLamber">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirusLamber&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/VirusLamber/Messenger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VirusLamber&repo=Messenger" />
-</a>
-<a href="https://github.com/VirusLamber/FluxLang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VirusLamber&repo=FluxLang" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirusLamber)](https://github.com/anuraghazra/github-readme-stats)
 <hr></hr>
 <img  align="center" src="https://i.pinimg.com/originals/4b/40/96/4b40967dec17146357c4a8525651fe4e.jpg"></img>
